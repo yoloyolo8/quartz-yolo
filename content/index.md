@@ -10,4 +10,4 @@ date: 2025-10-21
 
 
 目录
-[[1obsidian-double-link-problem]]
+[[1obsidian-double-link-problem|在obsidian通过双链构建的关系]]
