@@ -1,16 +1,14 @@
 ---
-
-title: "静态住宅IP配置指南｜Mac+iPhone2025-10-21T13:51:26+08:00"
-source: "https://todaylab.com/isp"
+title: 静态住宅IP配置指南｜Mac+iPhone2025-10-20
+source: https://todaylab.com/isp
 author:
   - "[[张轩铭]]"
 published: 2025-07-18
 created: 2025-10-20
-description: "当你频繁使用AI工具比如ChatGPT、Claude时，是否遇到过账号莫名其妙被封禁的情况？或者在使用AI服务时发现回答质量明显下降、回复速度非常慢。 这些问题往往源于一个关键因素——你的IP地址身份…"
+description: 当你频繁使用AI工具比如ChatGPT、Claude时，是否遇到过账号莫名其妙被封禁的情况？或者在使用AI服务时发现回答质量明显下降、回复速度非常慢。 这些问题往往源于一个关键因素——你的IP地址身份…
 tags:
   - Static-ip
   - 魔法上网
-
 ---
 
 
