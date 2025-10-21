@@ -1,6 +1,7 @@
 ---
-title: Yolo的数字花园   # 浏览器标题与页面 H1
-description: 金融·科技·随想   # 可选；用于 SEO 与摘要
+title: Yolo的数字花园
+description: 金融·科技·随想
+date: 2025-10-21
 ---
 
 # 欢迎 👋
