@@ -1,14 +1,21 @@
 ---
-title: "#1双链与yaml-tag的功能区别"
+title: "#1quartz通过双链和tag构建关系"
+description: 金融·科技·随想
 date: 2025-10-20
+aliases:
+  - "#1quartz通过双链和tag构建关系"
 tags:
   - obsidian
   - quartz
-description:
-draft: false
-aliases:
-  - 在obsidian通过双链构建的关系
 ---
+
+# 欢迎 👋
+
+这里会分享我的公开笔记、研究摘录和碎片想法。
+
+
+目录
+[[1obsidian-double-link-problem|在obsidian通过双链构建的关系]]
 
 我们要区分两个层面的关系
 
