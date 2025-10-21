@@ -3,19 +3,11 @@ title: "#1quartz通过双链和tag构建关系"
 description: 金融·科技·随想
 date: 2025-10-20
 aliases:
-  - "#1quartz通过双链和tag构建关系"
+  - 如何用quartz管理双链和yaml-tag
 tags:
   - obsidian
   - quartz
 ---
-
-# 欢迎 👋
-
-这里会分享我的公开笔记、研究摘录和碎片想法。
-
-
-目录
-[[1obsidian-double-link-problem|在obsidian通过双链构建的关系]]
 
 我们要区分两个层面的关系
 
