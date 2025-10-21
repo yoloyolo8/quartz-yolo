@@ -1,13 +1,14 @@
 ---
-title: "#1 双链与yaml-tag的功能区别"
+title: "#1双链与yaml-tag的功能区别"
 date: 2025-10-21
 tags:
   - obsidian
   - quartz
 description:
 draft: false
+aliases:
+  - 在obsidian通过双链构建的关系
 ---
-
 
 我们要区分两个层面的关系
 
