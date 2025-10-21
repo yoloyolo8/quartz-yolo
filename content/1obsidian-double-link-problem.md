@@ -8,7 +8,7 @@ description:
 draft: false
 ---
 
-我们要区分两个层面的关系：
+我们要区分两个层面的关系
 
 1. **Obsidian 的语义关系（双链 / [[wikilinks]]）**
     
