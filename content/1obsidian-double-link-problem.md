@@ -1,6 +1,6 @@
 ---
 title: "#1双链与yaml-tag的功能区别"
-date: 2025-10-21
+date: 2025-10-20
 tags:
   - obsidian
   - quartz
