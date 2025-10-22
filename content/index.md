@@ -13,5 +13,5 @@ date: 2025-10-20
 [[obsidian-double-link|#1quartz通过双链和tag构建关系]]
 [[test]]
 [[obsidian-double-link|如何用quartz管理双链和yaml-tag]]
-[[keep-testing|测试2]]
+[[Perplexity-at-Work|测试2]]
 

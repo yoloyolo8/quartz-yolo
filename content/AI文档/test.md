@@ -15,7 +15,7 @@ draft: false
 测试双链
 [[obsidian-double-link]]
 
-[[keep-testing|测试2]]
+[[Perplexity-at-Work|测试2]]
 
 [[obsidian-double-link|如何用quartz管理双链和yaml-tag]]
 
